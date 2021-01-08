@@ -1,6 +1,11 @@
 # data-indonesia-regional-zenodo
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4427713.svg)](https://doi.org/10.5281/zenodo.4427713)
+
+
+License (for files): [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+
 Indonesia Regional Dataset  
 
 1. Data supplementary material for published papers of the QuaRCS lab
