@@ -1,5 +1,6 @@
 # data-indonesia-regional-zenodo
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4427713.svg)](https://doi.org/10.5281/zenodo.4427713)
 Indonesia Regional Dataset  
 
 1. Data supplementary material for published papers of the QuaRCS lab
@@ -11,6 +12,5 @@ Santos-Marquez, F., Gunawan, A. and Mendez, C. 2020. GeoJounal forthcoming. Regi
  [GRDP per Capita data until 2017](https://github.com/quarcs-lab/data-indonesia-regional-zenodo/tree/main/economic-data-until-2017)
  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4427713.svg)](https://doi.org/10.5281/zenodo.4427713)
 
 
