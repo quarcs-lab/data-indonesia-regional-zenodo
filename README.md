@@ -8,4 +8,4 @@ Indonesia Regional Dataset
 # Papers and data location in this repository
 
 Santos-Marquez, F., Gunawan, A. and Mendez, C. 2020. GeoJounal forthcoming. Regional income disparities, distributional convergence, and spatial effects: evidence from Indonesia.
- [GRDP per Capita data](https://github.com/quarcs-lab/data-indonesia-regional-zenodo/tree/main/economic-data-until-2017)
+ [GRDP per Capita data until 2017](https://github.com/quarcs-lab/data-indonesia-regional-zenodo/tree/main/economic-data-until-2017)
