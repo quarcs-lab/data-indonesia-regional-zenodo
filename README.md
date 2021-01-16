@@ -1,7 +1,7 @@
 # Indonesia Regional Dataset  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4428102.svg)](https://doi.org/10.5281/zenodo.4428102)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4427712.svg)](https://doi.org/10.5281/zenodo.4427712)
 
 
 
